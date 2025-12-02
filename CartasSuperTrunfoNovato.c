@@ -3,7 +3,7 @@
 // Desafio Super Trunfo - Países
 // Nível Novato – Cadastro das Cartas
 // Objetivo: Ler os dados de DUAS cartas usando scanf e exibir usando printf.
-// Sem if, sem loops, apenas entrada e saída de dados.
+// Sem if, sem loops, apenas entrada e saída de dadoss.
 
 int main() {
 
