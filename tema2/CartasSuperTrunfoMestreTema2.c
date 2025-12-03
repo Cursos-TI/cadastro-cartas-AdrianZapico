@@ -2,7 +2,7 @@
 
 // Função para ler uma carta
 void lerCarta(
-    char codigo[], int *populacao, float *area, float *pib,
+    char codigo[],  int *populacao, float *area, float *pib,
     int *pontos, float *densidade, float *pibPerCapita, float *superPoder
 ) {
     printf("Código da cidade (ex: A01): ");
