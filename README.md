@@ -33,7 +33,9 @@ O mesmo vale para os arquivos do "Tema3"
 Após compilar o arquivo (ex: `novato`), execute o programa no terminal:
 
 ```bash
+
 ./[./novatol]
+ou o arquivo que desejar.
 
 Autor
 Aluno: Adrian Zapico
